@@ -1,0 +1,5 @@
+{
+  "name": "Roblox to Rojo Rust Dev",
+  "image": "mcr.microsoft.com/vscode/devcontainers/rust:latest",
+  "postCreateCommand": "cargo build --release"
+}
